@@ -1,0 +1,5 @@
+model,roc_auc,pr_auc
+Balanced Logistic Regression,0.6773538961,0.2366289687
+Conservative XGBoost,0.6924512987,0.1834785018
+Weighted Random Forest,0.6857954545,0.1631739184
+Weighted XGBoost,0.7033685065,0.1453359226
