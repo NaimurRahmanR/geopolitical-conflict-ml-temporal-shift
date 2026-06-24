@@ -1,0 +1,229 @@
+feature_set	split_year	feature	coefficient	abs_coefficient
+Conflict only	2000	year	0.1850917914	0.1850917914
+Conflict only	2000	cumulative_intensity	0.04354610185	0.04354610185
+Conflict only	2000	type_of_conflict	0.04143574096	0.04143574096
+Conflict only	2000	incompatibility	0.1913525839	0.1913525839
+Conflict only	2000	region	0.1113618396	0.1113618396
+Conflict only	2000	lag_1_intensity	0.09870680428	0.09870680428
+Conflict only	2000	lag_2_intensity	0.3217068459	0.3217068459
+Conflict only	2000	lag_1_cumulative_intensity	0.199811483	0.199811483
+Conflict only	2000	conflict_age	-0.1199480514	0.1199480514
+Conflict only	2005	year	0.1210721047	0.1210721047
+Conflict only	2005	cumulative_intensity	0.1387207068	0.1387207068
+Conflict only	2005	type_of_conflict	0.03005756135	0.03005756135
+Conflict only	2005	incompatibility	0.2523041255	0.2523041255
+Conflict only	2005	region	0.05376538436	0.05376538436
+Conflict only	2005	lag_1_intensity	0.1846450842	0.1846450842
+Conflict only	2005	lag_2_intensity	0.2880290705	0.2880290705
+Conflict only	2005	lag_1_cumulative_intensity	0.132187381	0.132187381
+Conflict only	2005	conflict_age	-0.1703291336	0.1703291336
+Conflict only	2010	year	-0.02962202191	0.02962202191
+Conflict only	2010	cumulative_intensity	0.1500925978	0.1500925978
+Conflict only	2010	type_of_conflict	0.05879061217	0.05879061217
+Conflict only	2010	incompatibility	0.3193530897	0.3193530897
+Conflict only	2010	region	0.005288733883	0.005288733883
+Conflict only	2010	lag_1_intensity	0.2133490538	0.2133490538
+Conflict only	2010	lag_2_intensity	0.2647478189	0.2647478189
+Conflict only	2010	lag_1_cumulative_intensity	0.1248788313	0.1248788313
+Conflict only	2010	conflict_age	-0.2494922861	0.2494922861
+Conflict only	2015	year	-0.0212582268	0.0212582268
+Conflict only	2015	cumulative_intensity	0.1252695249	0.1252695249
+Conflict only	2015	type_of_conflict	0.07864042741	0.07864042741
+Conflict only	2015	incompatibility	0.3141754079	0.3141754079
+Conflict only	2015	region	-0.01794639348	0.01794639348
+Conflict only	2015	lag_1_intensity	0.2084974771	0.2084974771
+Conflict only	2015	lag_2_intensity	0.2802892174	0.2802892174
+Conflict only	2015	lag_1_cumulative_intensity	0.1244744866	0.1244744866
+Conflict only	2015	conflict_age	-0.3126007468	0.3126007468
+Conflict + V-Dem lagged	2000	year	0.2831454803	0.2831454803
+Conflict + V-Dem lagged	2000	cumulative_intensity	0.1029141794	0.1029141794
+Conflict + V-Dem lagged	2000	type_of_conflict	0.01804093568	0.01804093568
+Conflict + V-Dem lagged	2000	incompatibility	0.1647077183	0.1647077183
+Conflict + V-Dem lagged	2000	region	0.07944500386	0.07944500386
+Conflict + V-Dem lagged	2000	lag_1_intensity	0.09945696553	0.09945696553
+Conflict + V-Dem lagged	2000	lag_2_intensity	0.2929860603	0.2929860603
+Conflict + V-Dem lagged	2000	lag_1_cumulative_intensity	0.1026255665	0.1026255665
+Conflict + V-Dem lagged	2000	conflict_age	-0.07116534279	0.07116534279
+Conflict + V-Dem lagged	2000	electoral_democracy_lag1	-0.3958879988	0.3958879988
+Conflict + V-Dem lagged	2000	liberal_democracy_lag1	-0.3906264484	0.3906264484
+Conflict + V-Dem lagged	2000	rule_of_law_lag1	0.2453135679	0.2453135679
+Conflict + V-Dem lagged	2000	liberal_component_lag1	-0.4671501751	0.4671501751
+Conflict + V-Dem lagged	2000	participatory_component_lag1	0.4119240734	0.4119240734
+Conflict + V-Dem lagged	2000	freedom_expression_altinfo_lag1	0.4901610087	0.4901610087
+Conflict + V-Dem lagged	2000	freedom_association_lag1	0.2305400683	0.2305400683
+Conflict + V-Dem lagged	2000	civil_society_participation_lag1	-0.4769140593	0.4769140593
+Conflict + V-Dem lagged	2005	year	0.192285532	0.192285532
+Conflict + V-Dem lagged	2005	cumulative_intensity	0.1959024862	0.1959024862
+Conflict + V-Dem lagged	2005	type_of_conflict	0.008235777028	0.008235777028
+Conflict + V-Dem lagged	2005	incompatibility	0.1970388733	0.1970388733
+Conflict + V-Dem lagged	2005	region	-0.01213247009	0.01213247009
+Conflict + V-Dem lagged	2005	lag_1_intensity	0.1891049105	0.1891049105
+Conflict + V-Dem lagged	2005	lag_2_intensity	0.261109465	0.261109465
+Conflict + V-Dem lagged	2005	lag_1_cumulative_intensity	0.02787667521	0.02787667521
+Conflict + V-Dem lagged	2005	conflict_age	-0.1360628872	0.1360628872
+Conflict + V-Dem lagged	2005	electoral_democracy_lag1	-0.2906557332	0.2906557332
+Conflict + V-Dem lagged	2005	liberal_democracy_lag1	-0.4914434617	0.4914434617
+Conflict + V-Dem lagged	2005	rule_of_law_lag1	0.0319903541	0.0319903541
+Conflict + V-Dem lagged	2005	liberal_component_lag1	-0.3161475682	0.3161475682
+Conflict + V-Dem lagged	2005	participatory_component_lag1	0.3768697005	0.3768697005
+Conflict + V-Dem lagged	2005	freedom_expression_altinfo_lag1	0.4234098131	0.4234098131
+Conflict + V-Dem lagged	2005	freedom_association_lag1	0.1059444201	0.1059444201
+Conflict + V-Dem lagged	2005	civil_society_participation_lag1	-0.2060214292	0.2060214292
+Conflict + V-Dem lagged	2010	year	-0.003993309295	0.003993309295
+Conflict + V-Dem lagged	2010	cumulative_intensity	0.2031754068	0.2031754068
+Conflict + V-Dem lagged	2010	type_of_conflict	0.04178874396	0.04178874396
+Conflict + V-Dem lagged	2010	incompatibility	0.2471383924	0.2471383924
+Conflict + V-Dem lagged	2010	region	-0.1029909748	0.1029909748
+Conflict + V-Dem lagged	2010	lag_1_intensity	0.2209172479	0.2209172479
+Conflict + V-Dem lagged	2010	lag_2_intensity	0.236171571	0.236171571
+Conflict + V-Dem lagged	2010	lag_1_cumulative_intensity	0.04217328437	0.04217328437
+Conflict + V-Dem lagged	2010	conflict_age	-0.1832099494	0.1832099494
+Conflict + V-Dem lagged	2010	electoral_democracy_lag1	-0.2897415338	0.2897415338
+Conflict + V-Dem lagged	2010	liberal_democracy_lag1	-0.3633500501	0.3633500501
+Conflict + V-Dem lagged	2010	rule_of_law_lag1	-0.3135619682	0.3135619682
+Conflict + V-Dem lagged	2010	liberal_component_lag1	-0.226807015	0.226807015
+Conflict + V-Dem lagged	2010	participatory_component_lag1	0.230002513	0.230002513
+Conflict + V-Dem lagged	2010	freedom_expression_altinfo_lag1	0.3827934636	0.3827934636
+Conflict + V-Dem lagged	2010	freedom_association_lag1	0.1505930312	0.1505930312
+Conflict + V-Dem lagged	2010	civil_society_participation_lag1	0.004942543726	0.004942543726
+Conflict + V-Dem lagged	2015	year	-0.04581987863	0.04581987863
+Conflict + V-Dem lagged	2015	cumulative_intensity	0.1933369673	0.1933369673
+Conflict + V-Dem lagged	2015	type_of_conflict	0.05235055342	0.05235055342
+Conflict + V-Dem lagged	2015	incompatibility	0.2529034239	0.2529034239
+Conflict + V-Dem lagged	2015	region	-0.1576266302	0.1576266302
+Conflict + V-Dem lagged	2015	lag_1_intensity	0.221345933	0.221345933
+Conflict + V-Dem lagged	2015	lag_2_intensity	0.2397303256	0.2397303256
+Conflict + V-Dem lagged	2015	lag_1_cumulative_intensity	0.04221791945	0.04221791945
+Conflict + V-Dem lagged	2015	conflict_age	-0.2244349024	0.2244349024
+Conflict + V-Dem lagged	2015	electoral_democracy_lag1	-0.3953011624	0.3953011624
+Conflict + V-Dem lagged	2015	liberal_democracy_lag1	-0.2791521726	0.2791521726
+Conflict + V-Dem lagged	2015	rule_of_law_lag1	-0.4959059098	0.4959059098
+Conflict + V-Dem lagged	2015	liberal_component_lag1	-0.1798346621	0.1798346621
+Conflict + V-Dem lagged	2015	participatory_component_lag1	0.2722252435	0.2722252435
+Conflict + V-Dem lagged	2015	freedom_expression_altinfo_lag1	0.1904819215	0.1904819215
+Conflict + V-Dem lagged	2015	freedom_association_lag1	0.3510288892	0.3510288892
+Conflict + V-Dem lagged	2015	civil_society_participation_lag1	0.1179824938	0.1179824938
+All leakage-safe features	2000	year	0.2676340987	0.2676340987
+All leakage-safe features	2000	cumulative_intensity	0.1028812651	0.1028812651
+All leakage-safe features	2000	type_of_conflict	0.01153439723	0.01153439723
+All leakage-safe features	2000	incompatibility	0.126376328	0.126376328
+All leakage-safe features	2000	region	0.09745017635	0.09745017635
+All leakage-safe features	2000	lag_1_intensity	0.07991490368	0.07991490368
+All leakage-safe features	2000	lag_2_intensity	0.2957116844	0.2957116844
+All leakage-safe features	2000	lag_1_cumulative_intensity	0.08371387079	0.08371387079
+All leakage-safe features	2000	conflict_age	-0.04079925739	0.04079925739
+All leakage-safe features	2000	gdp_growth_lag1	-0.1217440158	0.1217440158
+All leakage-safe features	2000	gdp_per_capita_lag1	-0.274844543	0.274844543
+All leakage-safe features	2000	inflation_lag1	-0.06918476506	0.06918476506
+All leakage-safe features	2000	internet_users_pct_lag1	0.03942849559	0.03942849559
+All leakage-safe features	2000	population_lag1	-0.07072017423	0.07072017423
+All leakage-safe features	2000	trade_pct_gdp_lag1	0.1676892197	0.1676892197
+All leakage-safe features	2000	unemployment_lag1	0.3135284544	0.3135284544
+All leakage-safe features	2000	urban_population_pct_lag1	0.03839025975	0.03839025975
+All leakage-safe features	2000	electoral_democracy_lag1	-0.2927741786	0.2927741786
+All leakage-safe features	2000	liberal_democracy_lag1	-0.2587323962	0.2587323962
+All leakage-safe features	2000	rule_of_law_lag1	0.2407188522	0.2407188522
+All leakage-safe features	2000	liberal_component_lag1	-0.5425102081	0.5425102081
+All leakage-safe features	2000	participatory_component_lag1	0.4048893581	0.4048893581
+All leakage-safe features	2000	freedom_expression_altinfo_lag1	0.5654491025	0.5654491025
+All leakage-safe features	2000	freedom_association_lag1	-0.03944871627	0.03944871627
+All leakage-safe features	2000	civil_society_participation_lag1	-0.3322620824	0.3322620824
+All leakage-safe features	2000	regional_high_intensity_count_lag1	0	0
+All leakage-safe features	2000	regional_avg_intensity_lag1	0	0
+All leakage-safe features	2000	regional_conflict_growth_lag1	-0.2107781977	0.2107781977
+All leakage-safe features	2000	country_high_intensity_count_lag1	0	0
+All leakage-safe features	2000	country_avg_intensity_lag1	0	0
+All leakage-safe features	2000	country_conflict_growth_lag1	0.05263156842	0.05263156842
+All leakage-safe features	2005	year	0.1616168757	0.1616168757
+All leakage-safe features	2005	cumulative_intensity	0.1712331372	0.1712331372
+All leakage-safe features	2005	type_of_conflict	0.02251330141	0.02251330141
+All leakage-safe features	2005	incompatibility	0.1443118397	0.1443118397
+All leakage-safe features	2005	region	0.01861936396	0.01861936396
+All leakage-safe features	2005	lag_1_intensity	0.16275595	0.16275595
+All leakage-safe features	2005	lag_2_intensity	0.2536322659	0.2536322659
+All leakage-safe features	2005	lag_1_cumulative_intensity	0.02589680873	0.02589680873
+All leakage-safe features	2005	conflict_age	-0.09402474918	0.09402474918
+All leakage-safe features	2005	gdp_growth_lag1	-0.1587736469	0.1587736469
+All leakage-safe features	2005	gdp_per_capita_lag1	-0.266274188	0.266274188
+All leakage-safe features	2005	inflation_lag1	-0.04429709952	0.04429709952
+All leakage-safe features	2005	internet_users_pct_lag1	-1.137397312	1.137397312
+All leakage-safe features	2005	population_lag1	-0.08189512414	0.08189512414
+All leakage-safe features	2005	trade_pct_gdp_lag1	0.1160930416	0.1160930416
+All leakage-safe features	2005	unemployment_lag1	0.2268168137	0.2268168137
+All leakage-safe features	2005	urban_population_pct_lag1	0.03364248265	0.03364248265
+All leakage-safe features	2005	electoral_democracy_lag1	-0.2221685965	0.2221685965
+All leakage-safe features	2005	liberal_democracy_lag1	-0.2902765685	0.2902765685
+All leakage-safe features	2005	rule_of_law_lag1	0.03423199409	0.03423199409
+All leakage-safe features	2005	liberal_component_lag1	-0.3611239717	0.3611239717
+All leakage-safe features	2005	participatory_component_lag1	0.384757612	0.384757612
+All leakage-safe features	2005	freedom_expression_altinfo_lag1	0.4493790345	0.4493790345
+All leakage-safe features	2005	freedom_association_lag1	-0.1371482154	0.1371482154
+All leakage-safe features	2005	civil_society_participation_lag1	-0.1088866609	0.1088866609
+All leakage-safe features	2005	regional_high_intensity_count_lag1	0	0
+All leakage-safe features	2005	regional_avg_intensity_lag1	0	0
+All leakage-safe features	2005	regional_conflict_growth_lag1	-0.1906478668	0.1906478668
+All leakage-safe features	2005	country_high_intensity_count_lag1	0	0
+All leakage-safe features	2005	country_avg_intensity_lag1	0	0
+All leakage-safe features	2005	country_conflict_growth_lag1	0.01336706422	0.01336706422
+All leakage-safe features	2010	year	0.04177125778	0.04177125778
+All leakage-safe features	2010	cumulative_intensity	0.176362249	0.176362249
+All leakage-safe features	2010	type_of_conflict	0.0610568885	0.0610568885
+All leakage-safe features	2010	incompatibility	0.1849432121	0.1849432121
+All leakage-safe features	2010	region	-0.05873245162	0.05873245162
+All leakage-safe features	2010	lag_1_intensity	0.1856758151	0.1856758151
+All leakage-safe features	2010	lag_2_intensity	0.215923032	0.215923032
+All leakage-safe features	2010	lag_1_cumulative_intensity	0.01877453332	0.01877453332
+All leakage-safe features	2010	conflict_age	-0.1531014499	0.1531014499
+All leakage-safe features	2010	gdp_growth_lag1	-0.1868181125	0.1868181125
+All leakage-safe features	2010	gdp_per_capita_lag1	-0.2809429174	0.2809429174
+All leakage-safe features	2010	inflation_lag1	-0.03744397582	0.03744397582
+All leakage-safe features	2010	internet_users_pct_lag1	-1.187693357	1.187693357
+All leakage-safe features	2010	population_lag1	-0.1628885302	0.1628885302
+All leakage-safe features	2010	trade_pct_gdp_lag1	0.01681941893	0.01681941893
+All leakage-safe features	2010	unemployment_lag1	0.1979375787	0.1979375787
+All leakage-safe features	2010	urban_population_pct_lag1	0.03401855501	0.03401855501
+All leakage-safe features	2010	electoral_democracy_lag1	-0.3172881224	0.3172881224
+All leakage-safe features	2010	liberal_democracy_lag1	-0.09816112667	0.09816112667
+All leakage-safe features	2010	rule_of_law_lag1	-0.2781857063	0.2781857063
+All leakage-safe features	2010	liberal_component_lag1	-0.3337558948	0.3337558948
+All leakage-safe features	2010	participatory_component_lag1	0.3029940196	0.3029940196
+All leakage-safe features	2010	freedom_expression_altinfo_lag1	0.4976817451	0.4976817451
+All leakage-safe features	2010	freedom_association_lag1	-0.06596026435	0.06596026435
+All leakage-safe features	2010	civil_society_participation_lag1	-0.003071190156	0.003071190156
+All leakage-safe features	2010	regional_high_intensity_count_lag1	0	0
+All leakage-safe features	2010	regional_avg_intensity_lag1	0	0
+All leakage-safe features	2010	regional_conflict_growth_lag1	-0.1934872157	0.1934872157
+All leakage-safe features	2010	country_high_intensity_count_lag1	0	0
+All leakage-safe features	2010	country_avg_intensity_lag1	0	0
+All leakage-safe features	2010	country_conflict_growth_lag1	0.01065542339	0.01065542339
+All leakage-safe features	2015	year	-0.002705734035	0.002705734035
+All leakage-safe features	2015	cumulative_intensity	0.1931510868	0.1931510868
+All leakage-safe features	2015	type_of_conflict	0.1005883008	0.1005883008
+All leakage-safe features	2015	incompatibility	0.1788301336	0.1788301336
+All leakage-safe features	2015	region	-0.1057385917	0.1057385917
+All leakage-safe features	2015	lag_1_intensity	0.1853821133	0.1853821133
+All leakage-safe features	2015	lag_2_intensity	0.1980457711	0.1980457711
+All leakage-safe features	2015	lag_1_cumulative_intensity	0.02502976335	0.02502976335
+All leakage-safe features	2015	conflict_age	-0.1927061429	0.1927061429
+All leakage-safe features	2015	gdp_growth_lag1	-0.2055042884	0.2055042884
+All leakage-safe features	2015	gdp_per_capita_lag1	-0.2660085285	0.2660085285
+All leakage-safe features	2015	inflation_lag1	-0.05917098413	0.05917098413
+All leakage-safe features	2015	internet_users_pct_lag1	-0.8000237823	0.8000237823
+All leakage-safe features	2015	population_lag1	-0.2431033623	0.2431033623
+All leakage-safe features	2015	trade_pct_gdp_lag1	-0.02779981105	0.02779981105
+All leakage-safe features	2015	unemployment_lag1	0.2481794639	0.2481794639
+All leakage-safe features	2015	urban_population_pct_lag1	0.002554857037	0.002554857037
+All leakage-safe features	2015	electoral_democracy_lag1	-0.4389441105	0.4389441105
+All leakage-safe features	2015	liberal_democracy_lag1	0.004181378131	0.004181378131
+All leakage-safe features	2015	rule_of_law_lag1	-0.4352804631	0.4352804631
+All leakage-safe features	2015	liberal_component_lag1	-0.2678710448	0.2678710448
+All leakage-safe features	2015	participatory_component_lag1	0.3606616624	0.3606616624
+All leakage-safe features	2015	freedom_expression_altinfo_lag1	0.2843215815	0.2843215815
+All leakage-safe features	2015	freedom_association_lag1	0.1840059625	0.1840059625
+All leakage-safe features	2015	civil_society_participation_lag1	0.06243136695	0.06243136695
+All leakage-safe features	2015	regional_high_intensity_count_lag1	0	0
+All leakage-safe features	2015	regional_avg_intensity_lag1	0	0
+All leakage-safe features	2015	regional_conflict_growth_lag1	-0.1780052876	0.1780052876
+All leakage-safe features	2015	country_high_intensity_count_lag1	0	0
+All leakage-safe features	2015	country_avg_intensity_lag1	0	0
+All leakage-safe features	2015	country_conflict_growth_lag1	-0.0005107848937	0.0005107848937
