@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Raw/restricted research data are documented but not versioned.
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Large or regenerated model binaries.
+outputs/models/*
+!outputs/models/.gitkeep
+
+# OS/editor files.
+.DS_Store
+Thumbs.db
+.vscode/
